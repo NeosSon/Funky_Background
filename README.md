@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/IePejoV.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+This is the link to the gif since it's not working: https://i.imgur.com/IePejoV.gifv
 
 <!-- Replace this with whatever GIF tool you used! -->
 
